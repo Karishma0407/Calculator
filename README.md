@@ -16,4 +16,4 @@ entity. Do not forget to implement the method toString(); this will be used as a
 Example of fields: Status, operation, value1, value2, result, detail message
 5. Throw business logic exceptions, e.g.: “Operation not found.”
 6. The application must print the following message:
-“The result is:” + <calculatorResponse object>
+“The result is:” + calculatorResponse object
